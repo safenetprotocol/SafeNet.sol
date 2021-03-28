@@ -1,0 +1,2 @@
+# SafeNet.sol
+SafeNet contract
